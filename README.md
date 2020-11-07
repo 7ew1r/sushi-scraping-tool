@@ -1,8 +1,6 @@
 # sushi-scraping-tool
 
-:sushi: のメニュー一覧を JSON ファイルで取得します。
-
-くら寿司とスシローに対応しています。
+くら寿司とスシローの :sushi: メニュー一覧を JSON ファイルで取得
 
 - [くら寿司](https://www.kurasushi.co.jp)
 - [スシロー](https://www.akindo-sushiro.co.jp/)
